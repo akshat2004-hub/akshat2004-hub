@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @akshat2004-hub
+- 👋 Hi, I’m Akshat Jain
+- Currently Persuing B.tech Data Science
+- Aspiring Data Analyst
 - 👀 I’m interested in ... PYTHON CODING
 - 🌱 I’m currently learning ... PYTHON 
 - 💞️ I’m looking to collaborate on ...MNCS
