@@ -4,12 +4,12 @@
 </p>
 
 <h1 align="center">👋 Akshat Jain</h1>
-<h3 align="center">🚀 Aspiring Data Analyst | AI Enthusiast</h3>
+<h3 align="center">🚀  Data Analyst | AI Enthusiast | Data Scientist</h3>
 
 ---
 
 ### 🌐 Portfolio
-🔗 **My Portfolio:** [Click Here](https://ais-dev-fannw3zjxgeiyfhekp2ieq-343507754311.asia-east1.run.app)
+🔗 **My Portfolio:** [Click Here](https://personal-portfolio-1-pirbpqlvt-jainakshat6878-4600s-projects.vercel.app)
 
 ---
 
