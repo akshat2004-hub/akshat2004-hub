@@ -64,7 +64,9 @@ A tool to scrape and extract structured data from Google search results, built f
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat2004-hub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
+📌 Check out my live stats directly on my profile: **[github.com/akshat2004-hub](https://github.com/akshat2004-hub)**
+
 </p>
 
 ---
@@ -77,10 +79,16 @@ A tool to scrape and extract structured data from Google search results, built f
 
 ---
 
-### 🚀 Top Languages
+### 🚀 Top Languages & Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat2004-hub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
+🐍 **Python** &nbsp;|&nbsp; 🗃️ **SQL** &nbsp;|&nbsp; ⚛️ **JavaScript** &nbsp;|&nbsp; 🎨 **HTML/CSS**
+<br/>
+🤖 **Machine Learning** &nbsp;|&nbsp; 🕸️ **Web Scraping** &nbsp;|&nbsp; 🧩 **Full Stack Development**
+<br/>
+⚡ **FastAPI** &nbsp;|&nbsp; ⚛️ **React** &nbsp;|&nbsp; 🎨 **Tailwind CSS** &nbsp;|&nbsp; 🐘 **PostgreSQL**
+
 </p>
 
 ---
