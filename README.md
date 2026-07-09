@@ -32,7 +32,7 @@
 A modular Retrieval-Augmented Generation system built with an independent-app architecture — each pipeline stage (chunking, embedding, vector storage, retrieval, reranking, generation) runs as its own FastAPI service, sharing state via PostgreSQL & ChromaDB.
 🔗 [Repo](https://github.com/Akshat748-cmd/Rag-Application-)
 
-**🔍 Google  Map Scraper**
+**🔍 Google Scraper**
 A tool to scrape and extract structured data from Google search results, built for automating data collection and research workflows.
 
 ---
@@ -64,7 +64,7 @@ A tool to scrape and extract structured data from Google search results, built f
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat2004-hub&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshat2004-hub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
@@ -80,7 +80,7 @@ A tool to scrape and extract structured data from Google search results, built f
 ### 🚀 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat2004-hub&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat2004-hub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
@@ -97,7 +97,7 @@ A tool to scrape and extract structured data from Google search results, built f
 ### 🎯 Goals
 - 🚀 Become a well-rounded Data Scientist & Full-Stack AI Builder
 - 📊 Ship production-ready ML & RAG systems
-- 🔍 Build a robust Google  Map Scraper for automated data collection
+- 🔍 Build a robust Google Scraper for automated data collection
 - 🌍 Contribute to Open Source
 
 ---
