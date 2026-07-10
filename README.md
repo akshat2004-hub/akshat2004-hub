@@ -78,11 +78,6 @@ Machine learning model to predict heart disease risk from patient data.
 ### 🎓 Education
 
 **Teerthanker Mahaveer University, Moradabad** — B.Tech. CSE (Data Science) | 2022 – 2026 | CGPA: 8.43/10
-
-**Ashish Memorial Public Sr. Sec. School** — 12th (BSER), 82% — 2022
-
-**Ashish Memorial Public Sr. Sec. School** — 10th (BSER), 85% — 2020
-
 ---
 
 ### 📜 Certifications
