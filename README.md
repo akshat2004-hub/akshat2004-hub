@@ -24,7 +24,7 @@ Aspiring Data Scientist with a strong foundation in **machine learning, data ana
 - 💼 **Data Analyst Intern** @ Appic Softwares — also driving business development, client outreach & presentations
 - 💻 **SDE Intern** @ Bluestock™ Fintech
 - 📊 **Data Analyst / Data Science Intern** @ SkillHigh & Zidio Development
-- 🎓 B.Tech CSE - Data Science, Teerthanker Mahaveer University (2022–2026) | CGPA: 8.43/10
+- 🎓 B.Tech CSE - Data Science, Teerthanker Mahaveer University (2022–2026) | CGPA: 8.53/10
 - 🔭 Currently building a **multi-step RAG Application** and a **Google Maps Scraper**
 - 🌱 Deepening skills in AI/ML, System Design & Full-Stack Development
 - 🏆 SIH (Smart India Hackathon) Certified
