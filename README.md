@@ -77,7 +77,7 @@ Machine learning model to predict heart disease risk from patient data.
 
 ### 🎓 Education
 
-**Teerthanker Mahaveer University, Moradabad** — B.Tech. CSE (Data Science) | 2022 – 2026 | CGPA: 8.43/10
+**Teerthanker Mahaveer University, Moradabad** — B.Tech. CSE (Data Science) | 2022 – 2026 | CGPA: 8.53/10
 ---
 
 ### 📜 Certifications
