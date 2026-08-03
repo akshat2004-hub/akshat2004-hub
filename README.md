@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Akshat Jain</h1>
-<h3 align="center">Aspiring Data Scientist | Data Analyst | SDE Intern | BTech CSE - Data Science, TMU '26</h3>
+<h3 align="center">Aspiring Data Scientist | Data Analyst | SDE | Full Stack Developer | BTech CSE - Data Science, TMU '26</h3>
 
 <p align="center">
 📍 Hindaun City, Rajasthan, India &nbsp;|&nbsp; 📧 jainakshat6878@gmail.com &nbsp;|&nbsp; 📱 +91-7852042541
