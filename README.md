@@ -15,7 +15,7 @@
 ### 🌐 Portfolio & Links
 🔗 **Portfolio:** [Click Here](https://personal-portfolio-1-pirbpqlvt-jainakshat6878-4600s-projects.vercel.app) &nbsp;|&nbsp;
 💼 **LinkedIn:** [akshat-jain](https://www.linkedin.com/in/akshat-jain-238a11258)
-**My Work Account:** [Appic Softwares](https://github.com/Akshat748-cmd)
+ | **My Work Account:** [Appic Softwares](https://github.com/Akshat748-cmd)
 
 ---
 
