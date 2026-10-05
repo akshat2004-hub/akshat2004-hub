@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Akshat Jain</h1>
-<h3 align="center">Aspiring Data Scientist | Data Analyst | SDE | Full Stack Developer | BTech CSE - Data Science, TMU '26</h3>
+<h3 align="center">Data Scientist | Data Analyst | SDE | Full Stack Developer | BTech CSE - Data Science, TMU '26</h3>
 
 <p align="center">
 📍 Hindaun City, Rajasthan, India &nbsp;|&nbsp; 📧 jainakshat6878@gmail.com &nbsp;|&nbsp; 📱 +91-7852042541
@@ -37,7 +37,7 @@ Aspiring Data Scientist with a strong foundation in **machine learning, data ana
 
 | Company | Role | Duration |
 |---|---|---|
-| **Appic Softwares Development LLP** | Data Analyst Intern | Mar 2026 – May 2026 |
+| **Appic Softwares Development LLP** | Data Analyst Intern | Mar 2026 – Sept 2026 |
 | **Bluestock Fintech** | Software Development Engineer Intern | Nov 2025 – Dec 2025 |
 | **SkillHigh** | Data Analyst Intern | Jul 2025 – Sep 2025 |
 | **Zidio Development** | Data Science & Analytics Intern | Jul 2025 – Aug 2025 |
