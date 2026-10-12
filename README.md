@@ -37,7 +37,7 @@ Aspiring Data Scientist with a strong foundation in **machine learning, data ana
 
 | Company | Role | Duration |
 |---|---|---|
-| **Appic Softwares Development LLP** | Data Analyst Intern | Mar 2026 – Sept 2026 |
+| **Appic Softwares Development LLP** | Data Analyst Intern | Mar 2026 – Present |
 | **Bluestock Fintech** | Software Development Engineer Intern | Nov 2025 – Dec 2025 |
 | **SkillHigh** | Data Analyst Intern | Jul 2025 – Sep 2025 |
 | **Zidio Development** | Data Science & Analytics Intern | Jul 2025 – Aug 2025 |
